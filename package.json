@@ -1,0 +1,11 @@
+{
+    "name": "kubemktcloud",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.16.4",
+        "shelljs": "^0.8.3"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
